@@ -13,28 +13,41 @@
 
 ## PROBLEM STATEMENT
 The problem of inefficiency and disorganization associated with manual or outdated contact management methods and the difficulty in keeping track of contact information across multiple platforms, leading to missed opportunities,  miscommunications, and loss of important information.
+
 -> Designing a smart contact management system that simplifies contact management, boosts communication, and enhances productivity while also providing a user-friendly interface and ensuring data security and privacy is a complex task. How can we develop a system that meets all these requirements and effectively addresses the challenges of modern contact management?
 
 ## MOTIVATION 
 • The motivation behind the development of a smart contact management system is to improve the efficiency and productivity of individuals and businesses by providing them with an easy-to-use, centralized tool for managing their contacts.
+
 • Managing contacts manually or with outdated methods can be time-consuming and frustrating, particularly as the number of contacts grows. It can also lead to missed opportunities and lost revenue.
+
 • By providing a smart contact management system, users can easily organize, retrieve, and update their contact information in one place, streamlining the process and making it easier to stay on top of important contacts.
+
 • A smart contact management system can help users build and maintain better relationships with customers and clients by enabling them to easily schedule appointments, set reminders, and follow up on important leads.
 
 ## OBJECTIVES
-• The main objective of the Project on Contact Management System is to manage the details of Contact, Credential, Telephone, Protle, Emails. It manages all the information about Contact, Mobile, Emails, Contact. The project is totally built at administrative end and thus only the administrator is guaranteed the access. 
+-> The main objective of the Project on Contact Management System is to manage the details of Contact, Credential, Telephone, Protle, Emails. It manages all the information about Contact, Mobile, Emails, Contact. The project is totally built at administrative end and thus only the administrator is guaranteed the access. 
 • A user Dashboard to operate and manage all the details.
+
 • Application Deployed using Jenkins, Ansible & Kubernetes Cluster.
+
 • To create Docker images for each Microservices
 
 ## TECHNOLOGY STACK
 • Spring Boot (IDE)
+
 • Java
-• MYSQL to manage database​
-• MYSQL java Connector to connect to the database​
-• • Docker for Deployment​
-• Git(version control)​
-• AWS​
+
+• MYSQL to manage database
+
+• MYSQL java Connector to connect to the database
+
+• • Docker for Deployment
+
+• Git(version control)
+
+• AWS
+
 •Jenkins
 
 ## Application of our Project
