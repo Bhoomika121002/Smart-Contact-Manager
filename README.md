@@ -42,7 +42,7 @@ The problem of inefficiency and disorganization associated with manual or outdat
 
 • MYSQL java Connector to connect to the database
 
-• • Docker for Deployment
+• Docker for Deployment
 
 • Git(version control)
 
