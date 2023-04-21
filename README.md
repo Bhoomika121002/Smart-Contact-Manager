@@ -26,12 +26,12 @@ The problem of inefficiency and disorganization associated with manual or outdat
 • A smart contact management system can help users build and maintain better relationships with customers and clients by enabling them to easily schedule appointments, set reminders, and follow up on important leads.
 
 ## OBJECTIVES
--> The main objective of the Project on Contact Management System is to manage the details of Contact, Credential, Telephone, Protle, Emails. It manages all the information about Contact, Mobile, Emails, Contact. The project is totally built at administrative end and thus only the administrator is guaranteed the access. 
-• A user Dashboard to operate and manage all the details.
+The objectives of a smart contact manager are to help individuals or businesses efficiently manage their contacts, streamline communication, and build stronger relationships with their contacts. Some specific objectives of a smart contact manager may include:
+• A Centralized User-Friendly Contact Management system which provides a single location for storing and managing all contact information including names, phone numbers, email addresses, work profile, and other details. We can perform the CRUD Operations(Create, Read, Update, Delete) on the added contact details.
+• A 2-step verification for each user provides security & privacy. Each user has a different dashboard to work-on & manage the contacts(No 2 users can interact). The user credentials are being saved in the MySql workbench at the backend. 
+• This SpringBoot Application is deployed using Docker. 
+By achieving these objectives, a smart contact manager can help businesses build stronger relationships with their contacts, increase customer retention, and ultimately drive revenue growth.
 
-• Application Deployed using Jenkins, Ansible & Kubernetes Cluster.
-
-• To create Docker images for each Microservices
 
 ## TECHNOLOGY STACK
 • Spring Boot (IDE)
